@@ -1,4 +1,3 @@
-#Sean Macmillan 10542221 | Keiren Moores 10537063
 """code from Pearson Education, Inc p104 """
 
 
